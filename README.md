@@ -8,4 +8,4 @@
 
 #### 1. [埃雷娜没有爱过谁](https://www.jianshu.com/p/eb4d9c33d7ba)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/5Vyj1Hqxz8k)
+[![2018_沿途的风景](http://xiaojuanmo.github.io/figs/hdImg_96b5b40e93cf7c318b643f0760e2fa011512390141988.jpg)](https://youtu.be/5Vyj1Hqxz8k)
