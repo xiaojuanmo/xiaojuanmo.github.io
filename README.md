@@ -1,4 +1,3 @@
-## 莫小娟的个人主页
 
 ![image](https://xiaojuanmo.github.io/figs/莫小娟  照片.JPG )
     
