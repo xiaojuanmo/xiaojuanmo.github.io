@@ -1,7 +1,7 @@
 
 ## 莫小娟
 
-![image](https://xiaojuanmo.github.io/figs/莫小娟  照片.JPG ){:height="30%" width="30%"}
+![image](https://xiaojuanmo.github.io/figs/莫小娟_2016.JPG){:height="30%" width="30%"}
     
 
 ### 文章
