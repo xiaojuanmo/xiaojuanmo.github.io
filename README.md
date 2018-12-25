@@ -1,6 +1,6 @@
 ## 莫小娟的个人主页
 
-## Xiaojuan Mo
+![image](https://xiaojuanmo.github.io/figs/莫小娟  照片.JPG )
     
 
 ### 文章
