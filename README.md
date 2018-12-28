@@ -3,9 +3,7 @@
 
 ![image](https://xiaojuanmo.github.io/figs/莫小娟_2016.JPG){:height="30%" width="30%"}
     
-<!--
 
--->
 
 
 ### 文章
@@ -18,15 +16,18 @@
 ## 2018年终总结
 
 ### 沿途的风景
-    
-[![image]](http://xiaojuanmo.github.io/figs/风景.jpg)(http://www.56.com/u34/v_MTU1MDEyNTUx.html)
+<!--
+ [![image](http://xiaojuanmo.github.io/figs/风景.jpg)](http://www.56.com/u34/v_MTU1MDEyNTUx.html)
+-->
+
+[![image](http://www.56.com/u34/v_MTU1MDEyNTUx.html/0.jpg)](http://www.56.com/u34/v_MTU1MDEyNTUx.html)
 
 ### 一路上面的我还有朋友
-[![image]](http://xiaojuanmo.github.io/figs/人物.jpg)(http://www.56.com/u92/v_MTU1MDEyOTYx.html)
+[![image](http://xiaojuanmo.github.io/figs/人物.jpg)](http://www.56.com/u92/v_MTU1MDEyOTYx.html)
 
 ### 沿途美食
-[![image]](http://xiaojuanmo.github.io/figs/美食.jpg)(http://www.56.com/u93/v_MTU1MDEyNDM0.html)  
+[![image](http://xiaojuanmo.github.io/figs/美食.jpg)](http://www.56.com/u93/v_MTU1MDEyNDM0.html)  
 
 ### 爬过的山，走过的路
-[![image]](http://xiaojuanmo.github.io/figs/爬山.jpg)(http://www.56.com/u60/v_MTU1MDEyOTI5.html)  
+[![image](http://xiaojuanmo.github.io/figs/爬山.jpg)](http://www.56.com/u60/v_MTU1MDEyOTI5.html)  
       
