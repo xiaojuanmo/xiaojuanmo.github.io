@@ -16,11 +16,12 @@
 ## 2018年终总结
 
 ### 沿途的风景
-<!--
- [![image](http://xiaojuanmo.github.io/figs/风景.jpg)](http://www.56.com/u34/v_MTU1MDEyNTUx.html)
--->
 
+ [![image](http://xiaojuanmo.github.io/figs/风景.jpg)](http://www.56.com/u34/v_MTU1MDEyNTUx.html)
+
+<!--
 [![image](http://www.56.com/u34/v_MTU1MDEyNTUx.html/0.jpg)](http://www.56.com/u34/v_MTU1MDEyNTUx.html)
+-->
 
 ### 一路上面的我还有朋友
 [![image](http://xiaojuanmo.github.io/figs/人物.jpg)](http://www.56.com/u92/v_MTU1MDEyOTYx.html)
